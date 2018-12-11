@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "New and improved"
+date:   2018-12-10 12:51:14 +0100
+---
+
+You're looking at the new and improved mag32.net, based on Jekyll and hosted by
+Github pages. I decided to ditch my old website based on an implementation of
+the ["Website META Language" (WML)](https://www.shlomifish.org/open-source/projects/website-meta-language/)
+in favor of Jekyll because WML is no longer easily accessible on the distros I
+use. It was just a pain to update the webpages, which resulted in me not doing
+it.
+
+Hope you enjoy it! It's based on the "Minima" Jekyll theme.

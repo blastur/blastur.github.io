@@ -1,0 +1,29 @@
+title: mag32.net
+email: magnus@minimum.se
+author: Magnus Olsson
+#description: >-
+#  Mjo
+baseurl: ""
+url: "https://mag32.net"
+github_username:  blastur
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+header_pages:
+  - about.md
+  - software.md
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - "*.sublime-project"
+   - "*.sublime-workspace"
