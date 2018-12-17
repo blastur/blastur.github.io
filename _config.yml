@@ -12,13 +12,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
 header_pages:
   - about.md
   - software.md
 
 exclude:
    - Gemfile
+   - mkpost.sh
    - Gemfile.lock
    - node_modules
    - vendor/bundle/
