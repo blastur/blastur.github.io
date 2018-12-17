@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Stage 5"
+date:  2018-12-17 21:06:41 +0100
+---
+
+I've never considered myself a hardcore gamer, but more so in my "younger" days. Nowadays I'm happy if I have time to slay some demons from the comfort of my couch while the family sleeps. Coming from a PC gaming background, I've always frowned upon console gaming -- thinking of it as a second-class citizen.
+Sure, I've played through lots of games on the PlayStation and had a great time; but as soon as you try to go pro, it ends in misery. Maybe I'm just oldschool, but I can't shake the feeling that a keyboard + mouse is the superior choice to a gamepad in first-person shooters.
+
+Until now! Enter the Valve [Steam controller](https://store.steampowered.com/app/353370/Steam_Controller/). It's been around since 2015, but I only recently picked one up to see if it could work as a replacement for a keyboard+mouse in the living room. Because let's be honest, keyboard and mouse in the couch presents a whole new level of problems. There's even a word for the kind of keyboard & mouse-"tray" you put in your lap: lapboard. It's apparently big business for gaming-oriented companies.
+
+For me, a lapboard is a no-go. First of all, I doubt the youngest member of the family wouldn't leave it alone. Secondly, I think the misses would throw it out simply because it doesn't exactly meld into the interior design. Third, it looks silly. A lapboard isn't far from the kind of couch tray tables oldtimers use when dining in front of the TV. No, if you're not living the bachelor life or retired, lapboards are not for you.
+
+So what so cool about the Steam controller? Let me tell you! It has a gyro! OMG. Really, that's it. In 2018, this is not exactly unique (Nintendo is doing a really good job with the Switch!), but when it was introduced back in 2015, it was pretty rare. I also don't know of any traditional gamepads that has it built-in. Neither the new generation of Xbox nor PlayStation controllers do it, AFAIK. Knowing what I know now, I wonder gyros isn't standard on all gamepads nowdays?
+
+![Steam Controller](/images/steamcontroller.jpg){:class="img-responsive"}
+
+Reading reviews on the Steam controller, you'll quickly learn that it has received a somewhat "mixed" welcome to the gaming community. You either love it or you hate it. I'd like to rephrase it as: everyone hates it at first, and those that push through the "teething" period eventually grows to love it.
+
+This Reddit post titled "[Steam Controller - The 5 stages](https://www.reddit.com/r/SteamController/comments/3qjhf8/steam_controller_the_5_stages/)" sums it up quite nicely:
+> **1 - Denial**
+> Day 1 of your new controller you will find it hard. You will tell yourself
+> it's not hard you just need to tweak a few settings. You will think things
+> like "it probably needs a software update. It's probably the profile I'm
+> using". This controller is something else. It's not a small leap, it's a
+> huge leap into new territory.
+>
+> **2 - Anger**
+> After 8-16 hours worth of gameplay, you will die in the game and you will get furious. You'll think "if I was
+> using a mouse or 360 pad I would have got that headshot!!!" You will consider never using the controller again.
+> You will consider putting it on e-bay; anything to get this demon controller you've invited into your home out.
+>
+> **3 - Bargaining**
+> 16 - 24 hours of gameplay in, if you've made it this far, you're now finally starting your journey to
+> Shangri-La.
+> You'll think "I'll just use it for CIV" or "I can use it for my friends as controller 2". You'll start to
+>tinker with settings and think "well I could try using a mouse as the right pad rather than the stick emulator".
+>
+> **4 - Depression**
+> This stage happens at any point but you will be sad about your purchase. Your dreams of it just working weren't
+> true and so you grind on through the difficulty of tweaking the settings and trying out the gyro. You'll think
+> about how you could have spent the money on a shark card or a new razer mouse.
+>
+> **5 - Acceptance / Love**
+> Then it happens. About 1 week in you're trekking up the mountain is becoming easier. You pick up the controller
+> on a new day and start-up ESO, Far Cry 2, Terraria, Kerbal Space Program and your not concentrating anymore.
+> You're head shootin' like a ninja. You've stopped using the stick for movement and have switched to the left
+> touchpad. Your thumbs are glued to the touch pads and your rear 6 fingers are never leaving the triggers,
+> bumpers, and grips. Your hands are naturally jerking around in crucial moments tweaking the gyro mouse to get a
+> perfect snipe, a perfect course correction, a major grip over your recoil.
+
+According to my Steam profile, it took me about 30 hours of DOOM to reach Stage 5. But it was so worth it! Granted, the controller does require quite a bit of configuration (per game) to get it just right, but once you do the gyro control in FPS is awesome. I've set it up so that the right trackpad (which replaces the traditional joystick) does rough mouse-look and the gyro for fine-tuning. Using this setup, it's possible to do things that you simply can't with a mouse. It's particularly useful in FPS when using weapons where you need to keep the crosshair on a moving target, like burst fire or the DOOM lightning gun.
+The only thing I find lacking still is the ability to turn around really quickly and accurately. In a FPS with
+a lot of vertical movement, it's also sometimes more difficult to orient yourself once you start panicing on
+the touchpad. (It could also be me getting too old for gaming).
+
+I wouldn't say that I've become a "better" gamer with the Steam Controller, but it does enable me to get a really nice living room gaming experience. I'll never be an e-sports pro, but it's amazingly good for casual gaming.
+Using a Steam Link, I can access all my PC games and as a bonus the [Steam Link](https://store.steampowered.com/steamlink/about) device is soo small I can hide it really neatly under the TV so that the tiny person won't find it. The controller I just put on a shelf high enough
+and my little crashmonkey won't find it ;-)
+
+PS. As of late 2018, the Steam Link device was cancelled by Valve. They now
+offer the Steam Link as an app for Android, and they recently released it as a
+standalone app you can run on a Raspberry PI 3. The latter should get you fairly
+close to the original Steam Link hardware experience, but obviously it'll
+require some tinkering. DS.
